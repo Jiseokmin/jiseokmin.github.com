@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 나도 언젠가는 좋은 개발자가 되고싶다
 
-You can use the [editor on GitHub](https://github.com/Jiseokmin/jiseokmin.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
